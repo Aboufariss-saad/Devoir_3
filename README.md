@@ -6,4 +6,6 @@
 https://github.com/Aboufariss-saad/Devoir_3/assets/96661067/5280aa5c-1cc4-4c73-870a-cf3085acbc69
 
 <h2>Design</h2>
+![img](https://github.com/Aboufariss-saad/Devoir_3/assets/96661067/77949953-c493-44f8-bd59-7179fbce18d6)
+
 ![img1](https://github.com/Aboufariss-saad/Devoir_3/assets/96661067/9d9a878a-2316-4ea6-92f0-1fb6f6225585)
