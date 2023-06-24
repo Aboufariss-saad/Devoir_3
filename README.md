@@ -18,7 +18,7 @@ Nous allons aussi voir comment utiliser le ***multithreading*** pour améliorer 
 ## Prérequis 
 Avant de commencer, on démarre ***XMPP*** et on lance le serveur ***Apache*** et la base de données ***MySQL***.
 
-![img.png](img.png)
+![img](https://github.com/Aboufariss-saad/Devoir_3/assets/96661067/e0b03831-91b9-4811-abb4-a0bc051f1bca)
 
 ## 1. Création de la base de données
 Le script SQL suivant permet de créer la base de données ***calendar*** et la table ***tasks***.
@@ -39,7 +39,7 @@ Nous pouvons maintenant insérer des données dans la table ***tasks***.
 INSERT INTO tasks (task) VALUES ('Faire les courses');
 INSERT INTO tasks (task) VALUES ('Faire la vaisselle');
 ```
-![img_1.png](img_1.png)
+![img_1](https://github.com/Aboufariss-saad/Devoir_3/assets/96661067/4049d6dc-6bab-461a-8fce-d595fe7a1286)
 
 ## 2. Web services PHP
 Nous allons maintenant créer un web service PHP appelé `getalltasks.php` qui permet de récupérer les données de la table ***tasks***.
@@ -101,4 +101,4 @@ Nous allons maintenant créer un web service PHP appelé `inserttask.php` qui pe
 
 On insère ces deux fichiers dans le répertoire ***htdocs*** du serveur ***Apache***.
 
-![img_2.png](img_2.png)
+![4](https://github.com/Aboufariss-saad/Devoir_3/assets/96661067/3cf0d360-fbdf-47eb-9f38-33a46d033c20)
